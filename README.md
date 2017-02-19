@@ -50,12 +50,12 @@ horizontal scrolling of an unwraped XML document.
 
 References
 ----------
-1 https://sailfishos.org/develop/docs/nemo-qml-plugin-dbus/qml-org-nemomobile-dbus-dbusinterface.html/
-2 https://www.gnu.org/software/emacs/manual/html_node/dbus/Introspection.html
-3 http://cheesehead-techblog.blogspot.sg/2012/08/dbus-tutorial-introspection-figuring.html
-4 https://blog.mafr.de/2006/12/19/using-dbus-introspection/
-5 https://dbus.freedesktop.org/doc/dbus-monitor.1.html
+- https://sailfishos.org/develop/docs/nemo-qml-plugin-dbus/qml-org-nemomobile-dbus-dbusinterface.html/
+- https://www.gnu.org/software/emacs/manual/html_node/dbus/Introspection.html
+- http://cheesehead-techblog.blogspot.sg/2012/08/dbus-tutorial-introspection-figuring.html
+- https://blog.mafr.de/2006/12/19/using-dbus-introspection/
+- https://dbus.freedesktop.org/doc/dbus-monitor.1.html
 
-6 http://doc.qt.io/qt-5/qtqml-javascript-expressions.html
-7 http://stackoverflow.com/questions/13923794/how-to-do-a-is-a-typeof-or-instanceof-in-qml
-8 https://saildev.wordpress.com/2014/03/05/design-tip-custom-pageheader/
+- http://doc.qt.io/qt-5/qtqml-javascript-expressions.html
+- http://stackoverflow.com/questions/13923794/how-to-do-a-is-a-typeof-or-instanceof-in-qml
+- https://saildev.wordpress.com/2014/03/05/design-tip-custom-pageheader/
