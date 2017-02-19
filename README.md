@@ -28,7 +28,7 @@ to provide list models of the services registered on the D-Session- or D-System-
 
 Could this have been done in QML (like all the others)? By all means, but I wanted to try the C++ / QML collaboration.
 
-The models are made available to QML in `main()` in `dBusListNames.cpp`.
+The models are made available to QML in `main()` in `harbour-dbus-inspector.cpp`.
 
 From here on everything is QML only.
 
