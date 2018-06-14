@@ -21,7 +21,7 @@ public:
     Q_INVOKABLE QString getServiceName(const int i);
 
 private:
-    QVector<QString> serviceNames;
+    QStringList serviceNames;
 };
 
 #endif // DSYSTEMBUSSERVICESMODEL_H

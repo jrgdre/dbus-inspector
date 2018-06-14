@@ -12,6 +12,7 @@ DSystemBusServicesModel::DSystemBusServicesModel(QObject *parent) :
     }
     foreach (QString name, reply.value())
         serviceNames << name;
+    serviceNames.sort();
 }
 
 QHash<int, QByteArray> DSystemBusServicesModel::roleNames() const {
