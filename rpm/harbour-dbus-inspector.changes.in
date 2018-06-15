@@ -13,5 +13,8 @@
 # - Scrubbed the deck
 # - Hoisted the sails
 
+* Thu Jun 14 2018 jrgdre <joerg.drechsler@drechsler-it.de> 1.1.0-1
+- fix #1 martonmiklos:sort_services: Sorting services by their name
+
 * Sun Feb 19 2017 jrgdre <joerg.drechsler@drechsler-it.de> 1.0.0-1
 - initial release

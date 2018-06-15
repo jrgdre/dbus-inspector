@@ -28,7 +28,7 @@ Page {
         }
         Label {
             id   : labelVersion
-            text : '(c) 2017 jrgdre'
+            text : '(c) 2017-2018 jrgdre'
             width: parent.width
             elide: Text.ElideLeft
             color: Theme.highlightColor
